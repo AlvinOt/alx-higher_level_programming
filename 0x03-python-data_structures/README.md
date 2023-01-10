@@ -1,1 +1,1 @@
-python's data structures
+data structures in pyhton
