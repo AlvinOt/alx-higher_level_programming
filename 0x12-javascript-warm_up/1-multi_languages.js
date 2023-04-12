@@ -1,6 +1,9 @@
 #!/usr/bin/node
 
-//A script that prints 3 lines
+/*
+ * A script that prints 3 lines
+ */
+
 
 const myVar1 = 'C is fun';
 const myVar2 = 'Python is cool';
