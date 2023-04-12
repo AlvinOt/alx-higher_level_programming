@@ -1,10 +1,10 @@
 #!/usr/bin/node
-const multi_c = process.argv[2];
+const multiC = process.argv[2];
 
-if (!parseInt(multi_c)) {
+if (!parseInt(multiC)) {
   console.log('Missing number of occurrences');
 } else {
-  for (let i = 0; i < multi_c; i++) {
+  for (let i = 0; i < multiC; i++) {
     console.log('C is fun');
   }
 }
